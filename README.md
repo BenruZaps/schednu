@@ -45,7 +45,6 @@ To run the application locally, follow these steps:
 - Filter schedules by section using the dropdown menu.
 
 ## License
-This project is licensed under the kupals Ruben, Jairus, and Lance
+This project is licensed under the creators Ruben, Jairus, and Lance
 =======
-# scheduling_system
->>>>>>> f448c30624c39cf5d6481da8e543c8b58aed6094
+
